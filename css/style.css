@@ -7,9 +7,11 @@
   
 }
 
-span{
-  color: gray;
-}
+/* span{
+  font-size: 12px;
+  padding: 0;
+  line-height: 0.5px;
+} */
 
 
 
@@ -57,6 +59,21 @@ section{
   font-size: 14px;
 }
 
+/* Introduction */
+
+#introduction p{
+  line-height: 12px;
+  font-size: 10px;
+  width: 300px;
+}
+
+/* Paragrafo principale */
+
+#paragrafo-principale p{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
 
 /* Interessi */
 .foto{
