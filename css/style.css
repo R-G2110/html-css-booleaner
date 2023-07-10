@@ -51,13 +51,14 @@ section{
   font-size: 14px;
 }
 
-/* Introduction */
+/* Introduzione */
 
-#introduction p{
+#introduzione p{
   line-height: 12px;
   font-size: 10px;
   width: 300px;
 }
+
 
 /* Paragrafo principale */
 
@@ -93,6 +94,9 @@ section{
 
 /* Interessi */
 
+#interessi span{
+  color: gray;
+}
 .foto{
   width: 300px;
   height: 200px;
