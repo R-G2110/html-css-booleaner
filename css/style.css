@@ -22,8 +22,19 @@ main{
   padding-left: 20px;
 }
 
+span{
+  color: gray;
+}
 
+mark{
+  color: blue;
+  background-color: white;
+}
 
+p{
+  ma
+  line-height: 2px;
+}
 
 
 
@@ -40,11 +51,8 @@ main{
 
 /* MAIN */
 
-span{
-  color: gray;
-}
 
-mark{
-  color: blue;
-  background-color: white;
+/* Foto */
+#foto {
+  margin-top: 20px;
 }
