@@ -17,6 +17,10 @@ header{
   position: relative;
 }
 
+main{
+  margin-top: 10px;
+  padding-left: 20px;
+}
 
 
 
@@ -27,9 +31,20 @@ header{
 
 /* HEADER */
 #logo {
-  padding-left: 10px;
+  padding-left: 20px;
   position: absolute;
   width: 100px;
   height: 50px;
   bottom: 0;
+}
+
+/* MAIN */
+
+span{
+  color: gray;
+}
+
+mark{
+  color: blue;
+  background-color: white;
 }
