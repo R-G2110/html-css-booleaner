@@ -7,14 +7,6 @@
   
 }
 
-/* span{
-  font-size: 12px;
-  padding: 0;
-  line-height: 0.5px;
-} */
-
-
-
 /* HEADER */
 
 header{
@@ -75,7 +67,32 @@ section{
   
 }
 
+/* Tabella */
+
+#tabella{
+  padding: 0;
+  width: 100%;
+  text-align: left;
+  font-size: 16px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#tabella thead{
+  background-color: #00BCD4;
+  color: white;
+}
+
+#prima-colonna, #seconda-colonna{
+  width: calc(25%);
+}
+
+.cella-celeste{
+  background-color: #B2EBF2;
+}
+
 /* Interessi */
+
 .foto{
   width: 300px;
   height: 200px;
