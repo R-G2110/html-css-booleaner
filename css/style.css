@@ -30,10 +30,9 @@ mark{
   background-color: white;
 }
 
-p{
-  ma
+/* p{
   line-height: 2px;
-}
+} */
 
 
 
@@ -52,11 +51,33 @@ p{
 
 
 /* Foto */
-#foto {
+/* #foto {
   margin-top: 20px;
-}
+} */
 
 
 section{
   margin-top: 5px;
+}
+
+
+
+.foto{
+  width: 300px;
+  height: 200px;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+#monitor{
+  background-color: blue;
+  background-image: url(../img/monitor.jpg);
+}
+
+#graph{
+  background-color: green;
+  background-image: url(../img/graph.jpg);
 }
